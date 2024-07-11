@@ -10,5 +10,9 @@
 2. Navigate to chr11 and select a random region that contains a variant and also has sequence(s) in both S1 and S2.
 3. Export the selected region as a figure.
 
-## Submission Files
-All files outputted from this assignment are located above.
+## Assignment Submission
+An IGV Browser screenshot was generated using alignment files for two samples (S1 and S2) and a VCF file containing identified genetic variants. The VCF file is uploaded above.
+
+The screenshot visualizes alignment and variant calling results for S1 and S2 within the genomic region on chromosome 11, encompassing the C2CD3 gene. Alignment tracks show mismatches and variations, highlighted by colored bars, indicating potential SNPs or indels. The VCF track displays variants, with blue lines for S1 and red lines for S2.
+
+![IGV_screenshot](https://github.com/ssomalra/INFO-B574-Next-Generation-Sequencing/assets/116883221/ad8e5b0d-0d39-4bf1-8b9c-56ffab6b1844)
