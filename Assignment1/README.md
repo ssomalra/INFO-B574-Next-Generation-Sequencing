@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 1
 This assignment familiarizes students with IU supercomputers and the use of the terminal.
 
 ## Assignment Submission
